@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [文档中心](README.md)
+* [快速入门](kuai-su-ru-men.md)
+* [购买指南](gou-mai-zhi-nan/README.md)
+  * [Untitled](gou-mai-zhi-nan/untitled.md)
+* [产品介绍](chan-pin-jie-shao/README.md)
+  * [Untitled](chan-pin-jie-shao/untitled.md)
 
