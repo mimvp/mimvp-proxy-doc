@@ -1,6 +1,7 @@
 # Table of contents
 
 * [文档中心](README.md)
+* [常见问题](chang-jian-wen-ti.md)
 * [快速入门](kuai-su-ru-men.md)
 * [购买指南](gou-mai-zhi-nan/README.md)
   * [Untitled](gou-mai-zhi-nan/untitled.md)
